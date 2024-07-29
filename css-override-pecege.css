@@ -1,0 +1,38 @@
+.icon-16, .icon-16 > div, .icon-16 svg {
+    width: 16px !important;
+    height: 16px !important;
+    min-width: 16px !important;
+    min-height: 16px !important;
+}
+
+.icon-18, .icon-18 > div, .icon-18 svg {
+    width: 18px !important;
+    height: 18px !important;
+    min-width: 18px !important;
+    min-height: 18px !important;
+}
+
+.icon-24, .icon-24 > div, .icon-24 svg {
+    width: 24px !important;
+    height: 24px !important;
+    min-width: 24px !important;
+    min-height: 24px !important;
+}
+
+.icon-32, .icon-32 > div, .icon-32 svg {
+    width: 32px !important;
+    height: 32px !important;
+    min-width: 32px !important;
+    min-height: 32px !important;
+}
+
+.icon-16, .icon-18, .icon-24, .icon-32 {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+}
+
+
+.clickable svg:hover{
+cursor: pointer !important;
+}
